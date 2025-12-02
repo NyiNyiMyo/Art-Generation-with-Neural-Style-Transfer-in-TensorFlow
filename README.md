@@ -2,4 +2,4 @@
 TensorFlow Neural Style Transfer Art Generation using VGG19
 
 ![Results Example](me-art1.png)  
-<img src="bubududubabies-art1.png" width="440" height="600"> <img src="bubududu-art1.png" width="440" height="600">
+<img src="bubududubabies-art1.png" width="410" height="600"> <img src="bubududu-art1.png" width="410" height="600">
